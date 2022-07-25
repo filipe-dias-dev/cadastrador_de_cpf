@@ -1,0 +1,7 @@
+    Capturar o CPF digitado pelo usuário
+
+    2: Verificar se o CPF capturado é válido ou não
+    
+    3a: Se for válido, salvar e mandar mensagem de sucesso
+
+    3b: Se não for válido, mandar mensagem de falha

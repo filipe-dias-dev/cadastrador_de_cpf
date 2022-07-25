@@ -1,0 +1,19 @@
+{
+  "name": "cadastrador-de-cpfs",
+  "version": "1.0.0",
+  "description": "Projeto para salvar CPFs válidos em um arquivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CPF"
+  ],
+  "author": "Filipe Dias",
+  "license": "ISC",
+  "dependencies": {
+    "index.js": "^0.0.3",
+    "mhs-cpf-val": "^1.0.0",
+    "validador-de-cpf": "^1.0.2"
+  }
+}
